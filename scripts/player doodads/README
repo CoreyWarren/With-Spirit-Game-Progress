@@ -1,0 +1,8 @@
+Player-centric* doodads such as:
+->Player Projectiles
+->Player In-World UI/Visual objects
+->Travelling Soul Companion Script
+
+
+*Does not include:
+->Player Controller (Look at GAME CONTROL section instead)
