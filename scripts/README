@@ -16,7 +16,12 @@ These are scripts related to enemies and their various parts such as:
 ->Enemy-like Obstacles
 
 # game control scripts
-These are game control related scripts such as: 
+These are essential game-managing functions such as:
+-Player Controller
+-Camera Controller
+-Player Resources Controller
+-Music Player
+-Pause Functionality
 
 # general use scripts
 
