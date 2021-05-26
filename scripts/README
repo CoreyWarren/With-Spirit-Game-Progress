@@ -24,5 +24,12 @@ These are essential game-managing functions such as:
 -Pause Functionality
 
 # general use scripts
+These are general use scripts that have a wide variety of use-cases and should be labelled as such, including:
+->Simple Sprite Fade Animation
+->Area Triggers
+->Puzzle Success Triggers
+->Multi-trigger trackers
+->Set Center of Mass to Transform
+->Duplicate Checker and Destroyer
 
 # player doodads
