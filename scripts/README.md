@@ -2,10 +2,15 @@ These are the assorted scripts for With Spirit.
 
 # doodad scripts
 These are scripts for various level-related doodads such as:
+
 ->Walls
+
 ->Scene Lights
+
 ->Treasure Sparkle effects
+
 ->Treasure Kill Script
+
 ->Neutral/Objective Tower Script
 
 # enemy n projectiles scripts
