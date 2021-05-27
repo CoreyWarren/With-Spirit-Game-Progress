@@ -1,7 +1,7 @@
 These are the assorted scripts for With Spirit.
 
-## doodad scripts
-#These are scripts for various level-related doodads such as:
+# doodad scripts
+## These are scripts for various level-related doodads such as:
 
 ->Walls
 
@@ -13,8 +13,8 @@ These are the assorted scripts for With Spirit.
 
 ->Neutral/Objective Tower Script
 
-## enemy n projectiles scripts
-#These are scripts related to enemies and their various parts such as:
+# enemy n projectiles scripts
+## These are scripts related to enemies and their various parts such as:
 
 ->Enemy Controllers/Objects
 
@@ -26,8 +26,8 @@ These are the assorted scripts for With Spirit.
 
 
 
-## game control scripts
-#These are essential game-managing functions such as:
+# game control scripts
+##These are essential game-managing functions such as:
 
 -Player Controller
 
@@ -41,8 +41,8 @@ These are the assorted scripts for With Spirit.
 
 
 
-## general use scripts
-#These are general use scripts that have a wide variety of use-cases and should be labelled as such, including:
+# general use scripts
+## These are general use scripts that have a wide variety of use-cases and should be labelled as such, including:
 
 ->Simple Sprite Fade Animation
 
@@ -57,7 +57,7 @@ These are the assorted scripts for With Spirit.
 ->Duplicate Checker and Destroyer
 
 ## player doodads
-#Player-centric* doodads such as:
+# Player-centric* doodads such as:
 
 ->Player Projectiles
 
