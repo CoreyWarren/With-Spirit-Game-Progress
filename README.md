@@ -1,4 +1,4 @@
-# with-spirit-progress
+# "with-spirit-progress"
 ## Development of my "With Spirit!" Indie Game.
  is a video game I'm developing in Unity. 
 I've been developing it for over 3 years at this point. But I still have much further to go!
