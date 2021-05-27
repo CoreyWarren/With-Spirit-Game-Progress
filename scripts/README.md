@@ -1,4 +1,4 @@
-These are the assorted scripts for With Spirit.
+These are the assorted scripts for "With Spirit."
 
 Below is a list explaining each of the folders' contents.
 
