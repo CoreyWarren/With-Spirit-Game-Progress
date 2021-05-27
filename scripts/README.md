@@ -27,7 +27,7 @@ These are the assorted scripts for With Spirit.
 
 
 # Game Control Scripts
-##These are essential game-managing functions such as:
+## These are essential game-managing functions such as:
 
 -Player Controller
 
